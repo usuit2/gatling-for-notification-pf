@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.RegisterNotificationNoUserSimulation",
+  "simulationId": "registernotificationnousersimulation-20220726035201757",
+  "start": 1658807522931,
+  "description": "",
+  "scenarios": ["notification-pf-perfornance-test"],
+  "assertions": [
+
+  ]
+}
