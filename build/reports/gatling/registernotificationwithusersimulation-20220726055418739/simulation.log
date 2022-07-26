@@ -1,0 +1,4 @@
+RUN	simulations.RegisterNotificationWithUserSimulation	registernotificationwithusersimulation	1658814858739	 	3.8.2
+USER	notification-pf-perfornance-test-with-user	START	1658814859936
+REQUEST		notification-pf-register	1658814859969	1658814860102	OK	 
+USER	notification-pf-perfornance-test-with-user	END	1658814860122
